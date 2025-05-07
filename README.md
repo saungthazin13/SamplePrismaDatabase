@@ -1,6 +1,6 @@
 # SamplePrismaDatabase
 1.Clone & enter =>
-  git clone https://github.com/saungthazin13/SamplePrismaDatabase.git
+  git clone https://github.com/saungthazin13/SamplePrismaDatabase.git    ,
   cd SamplePrismaDatabase
 
 2.Install dependencies=>
