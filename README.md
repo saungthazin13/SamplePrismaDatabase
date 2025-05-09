@@ -1,4 +1,17 @@
-# SamplePrismaDatabase
+#  Sample Prisma Database
+
+This project is a simple setup using *Prisma ORM* with a **PostgreSQL** database. 
+
+##  Technologies Used
+
+ **Node.js** – JavaScript runtime environment
+**Prisma ORM** – Type-safe database ORM for Node.js & TypeScript
+**PostgreSQL** – Relational database
+**TypeScript** – Superset of JavaScript with types
+**dotenv** – Loads environment variables from `.env`
+**ts-node** – TypeScript execution engine for Node.js
+**npm scripts** – Task runner and automation
+
 1.Clone & enter =>
   git clone https://github.com/saungthazin13/SamplePrismaDatabase.git    ,
   cd SamplePrismaDatabase
@@ -7,7 +20,7 @@
   npm install
 
 3.Database setup=>
-.envမှာပြင်ရန်
+.envမှာပြင်ရန်(DATABASE_URL="postgresql://username:password@localhost:5432/mydb")
 
 4.Run migrations=>
   npx prisma migrate dev --name init
