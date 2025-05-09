@@ -13,7 +13,7 @@ This project is a simple setup using *Prisma ORM* with a **PostgreSQL** database
 **npm scripts** – Task runner and automation
 
 1.Clone & enter =>
-  git clone https://github.com/saungthazin13/SamplePrismaDatabase.git    ,
+  git clone https://github.com/saungthazin13/SamplePrismaDatabase.git <br>
   cd SamplePrismaDatabase
 
 2.Install dependencies=>
