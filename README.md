@@ -28,6 +28,23 @@ This project is a simple setup using *Prisma ORM* with a **PostgreSQL** database
 5.Launch Prisma Studio=>
   npx prisma studio
 
+This project uses Prisma ORM with the following database tables:
+
+## Core Models
+- **Users** - User accounts and authentication
+- **Products** - Product catalog and inventory
+- **Orders** - Customer orders and transactions
+- **Tags** - Categorization and labeling system
+- **Categories** - Product classification
+- **Posts** - Content articles or blog posts
+- **Types** - Classification types
+
+## Supporting Models
+- **Images** - Media attachments
+- **OTP** - One-time passwords for authentication
+- **ProductOnOrder** - Junction table for order items (Many-to-Many)
+- **Taggable** - Polymorphic tagging relationship
+- 
 ##  Link Demo
  You can view the live demo here:https://sampleprismadatabase.onrender.com
 
