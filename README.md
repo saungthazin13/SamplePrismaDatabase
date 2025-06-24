@@ -28,7 +28,7 @@ This project is a simple setup using *Prisma ORM* with a **PostgreSQL** database
 5.Launch Prisma Studio=>
   npx prisma studio
 
-
-
+##  Link Demo
+ You can view the live demo here:https://sampleprismadatabase.onrender.com
 
 
